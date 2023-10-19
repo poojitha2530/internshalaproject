@@ -1,4 +1,4 @@
-![image](https://github.com/poojitha2530/internshalaproject/assets/129091563/266c2814-075f-4b50-8190-45cdc4f0e2a6)# internshalaproject
+# internshalaproject
 CUSTOMER CHURN ANALYSIS using the machine learning (random forest classifier)
  Conclusion
 
